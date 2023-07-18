@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 
+I am currently working as a junior data scientist👋
 
 <!--
 **AbdulAmin-12/AbdulAmin-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
